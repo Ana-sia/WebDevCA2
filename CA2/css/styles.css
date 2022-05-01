@@ -11285,4 +11285,13 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+  
+}
+.CodeMirror {
+  border: 1px solid #222;
+  height: auto;
+}
+.CodeMirror-scroll {
+  overflow-y: hidden;
+  overflow-x: auto;
 }
