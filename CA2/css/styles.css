@@ -11295,3 +11295,23 @@ textarea.form-control-lg {
   overflow-y: hidden;
   overflow-x: auto;
 }
+
+table { 
+  border-collapse: collapse;
+
+}
+th {
+  padding: 0.2rem;
+  text-align: center;
+  border: 1px solid #0c4128;
+  background-color: #198754;
+  font-family: 'Red Hat Mono', monospace;
+}
+td {
+  padding: 0.2rem;
+  text-align: center;
+  border: 1px solid #0c4128;
+  color: darkgreen;
+  background-color: palegreen;
+  font-family: 'Red Hat Mono', monospace;
+}
